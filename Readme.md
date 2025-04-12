@@ -1,6 +1,6 @@
 # Atcoder DP
 
-This folder contains solutions and resources for the Atcoder Dynamic Programming (DP) contest problems. The goal is to practice and improve dynamic programming skills by solving a variety of challenges.
+This folder contains solutions and resources for the Atcoder Dynamic Programming (DP) contest((https://atcoder.jp/contests/dp)) problems. The goal is to practice and improve dynamic programming skills by solving a variety of challenges.
 
 ## Structure
 
